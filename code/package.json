@@ -9,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+
   "dependencies": {
     "node-adodb": "^5.0.2"
   }
