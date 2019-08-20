@@ -9,7 +9,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riven78/gps2citybybaidu.git"
+  },
   "dependencies": {
     "node-adodb": "^5.0.2"
   }
