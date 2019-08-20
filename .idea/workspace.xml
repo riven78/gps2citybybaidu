@@ -25,7 +25,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.16.2" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -94,7 +94,7 @@
       <workItem from="1566193812094" duration="3033000" />
       <workItem from="1566221475802" duration="623000" />
       <workItem from="1566264269556" duration="2609000" />
-      <workItem from="1566268366248" duration="9448000" />
+      <workItem from="1566268366248" duration="10045000" />
     </task>
     <servers />
   </component>
