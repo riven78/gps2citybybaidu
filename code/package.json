@@ -1,6 +1,6 @@
 {
   "name": "gps2citybybaidu",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "通过百度地图正地理编码接口将GPS转换成实际地址",
   "main": "index.js",
   "scripts": {
